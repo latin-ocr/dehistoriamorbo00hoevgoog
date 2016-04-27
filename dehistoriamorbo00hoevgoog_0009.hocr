@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dehistoriamorbo00hoevgoog_0009.png"; bbox 0 0 2900 4874; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 566 1992 963 2031">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 566 1992 963 2031">
+     <span class='ocr_line' id='line_1_1' title="bbox 566 1992 963 2031; baseline 0.013 -5"><span class='ocrx_word' id='word_1_1' title='bbox 566 1992 963 2031; x_wconf 53' lang='lat' dir='ltr'><em>Q</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 605 2103 970 2188">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 605 2103 970 2188">
+     <span class='ocr_line' id='line_1_2' title="bbox 605 2103 970 2188; baseline 0.003 -25"><span class='ocrx_word' id='word_1_2' title='bbox 605 2103 722 2164; x_wconf 74' lang='lat' dir='ltr'><em>Morbus</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 740 2105 812 2166; x_wconf 74' lang='lat' dir='ltr'><em>vitae</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 829 2109 939 2188; x_wconf 60' lang='grc' dir='ltr'><em>φράσε.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 968 2133 970 2138; x_wconf 95' lang='grc'><strong><em>·</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 581 2257 976 2288">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 581 2257 976 2288">
+     <span class='ocr_line' id='line_1_3' title="bbox 581 2257 976 2288; baseline 0.015 -6"><span class='ocrx_word' id='word_1_6' title='bbox 581 2257 976 2288; x_wconf 54' lang='lat' dir='ltr'><em>Q</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1454 4874">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1454 4874">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1454 4874; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1454 4874; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
